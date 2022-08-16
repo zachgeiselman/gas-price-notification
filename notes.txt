@@ -1,0 +1,9 @@
+
+TODO:
+- Figure out what libraries to use
+- 
+
+IDEAS:
+- Scrape gas prices off of gasbuddy.com by entering zipcode and fuel type
+- Notify with list of prices and address / distance from current location (or home if not)
+- Link to google maps for directions
